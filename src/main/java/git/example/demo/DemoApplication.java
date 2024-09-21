@@ -14,5 +14,6 @@ public class DemoApplication  implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Added by DEV - Command line runner");
+		System.out.println("Main branch");
 	}
 }
